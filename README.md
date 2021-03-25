@@ -83,7 +83,7 @@ python [filename]
 ```
 to run the file.
 
-![Running Python](/assets/Run_python.gif)
+![Running Python](/assets/Run_Python.gif)
 
 **Step 3:** You are done! If you want to change the strings inputted, you can navigate to the python file and change
 ```python
